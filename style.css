@@ -272,3 +272,26 @@ footer .fmeta { font-family: var(--font-mono); font-size: 11px; letter-spacing: 
 .archiv a:hover { background: var(--orange); }
 .archiv .d { font-family: var(--font-display); font-size: 18px; }
 .archiv .s { font-family: var(--font-mono); font-size: 12px; color: var(--ink-muted); }
+
+
+/* ---------------- Profi-Charts (Getquin-Stil) ---------------- */
+
+.rangebar { display: flex; gap: 10px; margin: 0 0 16px; }
+.rangebar .rb {
+  font-family: var(--font-mono); font-size: 13px; font-weight: 700;
+  border: 2px solid var(--ink); padding: 6px 14px; background: var(--card);
+}
+.rangebar .rb small { display: block; font-size: 10px; font-weight: 400; letter-spacing: 1.5px; color: var(--ink-muted); }
+.rangebar .rb.up { background: #e2efd9; color: var(--pos); }
+.rangebar .rb.down { background: #f6ded6; color: var(--neg); }
+
+.alloc { display: grid; grid-template-columns: 240px 1fr; gap: 30px; align-items: center; }
+@media (max-width: 700px) { .alloc { grid-template-columns: 1fr; } }
+.alloc .legende { display: grid; gap: 6px; }
+.alloc .legende .z { display: flex; align-items: center; gap: 10px; font-size: 14.5px; }
+.alloc .legende .sw { width: 14px; height: 14px; border: 2px solid var(--ink); flex: none; }
+.alloc .legende .pct { margin-left: auto; font-family: var(--font-mono); font-weight: 700; }
+.alloc .legende .balken { flex: 1; max-width: 140px; height: 8px; background: var(--paper-warm); border: 1px solid var(--ink); }
+.alloc .legende .balken i { display: block; height: 100%; }
+
+.endlabel { font-family: var(--font-mono); font-size: 12px; font-weight: 700; }
