@@ -295,3 +295,20 @@ footer .fmeta { font-family: var(--font-mono); font-size: 11px; letter-spacing: 
 .alloc .legende .balken i { display: block; height: 100%; }
 
 .endlabel { font-family: var(--font-mono); font-size: 12px; font-weight: 700; }
+
+
+/* ---------------- Interaktive Charts ---------------- */
+
+.livechart { height: 360px; }
+.livewrap .fallback { display: block; }
+.livewrap.on .fallback { display: none; }
+.livewrap .livechart { display: none; }
+.livewrap.on .livechart { display: block; }
+.rangebtns { display: flex; gap: 8px; margin: 12px 0 0; }
+.rangebtns button {
+  font-family: var(--font-mono); font-size: 12px; font-weight: 700;
+  border: 2px solid var(--ink); background: var(--card); cursor: pointer;
+  padding: 5px 12px; box-shadow: 2px 2px 0 var(--ink);
+}
+.rangebtns button.on { background: var(--ink); color: var(--paper); }
+.hoverlegend { font-family: var(--font-mono); font-size: 13px; margin-top: 8px; min-height: 20px; color: var(--ink-soft); }
