@@ -48,10 +48,28 @@ Nischen mit echtem strukturellem Vorteil fuer kleines Kapital:
   Bezugsrechte. Mechanische Ereignisse, in Filings auffindbar.
 - **Prognosemaerkte**: LLM-nativ, duenn gehandelt. Rechtslage CH pruefen.
 
+## Kurskorrektur 2026-09-15 (spaeter am selben Tag)
+
+Vuk hat eingewandt: In sechs Monaten sind Modelle so stark, dass niemand
+mehr unseren heutigen Aufwand braucht. Das stimmt — und es entscheidet den
+Weg. Alles, was ein Modell bald nativ kann (Nachrichten lesen, Briefings
+bauen, Tools verpacken), verliert seinen Wert. Was gewinnt: Beziehungen,
+Vertrauen, und der Mensch, der es bei anderen tatsaechlich einbaut.
+
+Darum ist Weg 1 unten nicht "Tools bauen und verkaufen", sondern:
+**Modelle bei KMU einbauen, die es selbst nie tun werden.** Bessere Rohre
+ersetzen den Klempner nicht. Staerkere Modelle machen den Einbauer
+wertvoller — die Marge pro Kundenstunde waechst mit jeder Generation.
+Beim Trading bekommt der Gegner denselben Fortschritt; hier nicht.
+
+Die Trading-Infrastruktur (Phase 0–2 unten) bleibt als eigenes Labor
+bestehen, ist aber nicht mehr der Weg zum Geld. Nicht weiter ausbauen,
+solange der KMU-Weg nicht steht.
+
 ## Rangliste nach Gewinnwahrscheinlichkeit
 
-1. **Bauen und verkaufen** — kein Gegner, skalierbar. Das Briefing ist ein
-   Produkt. Dieselbe Infrastruktur speist beide Wege.
+1. **Modelle bei KMU einbauen** — kein Gegner, Vertrauensmarkt, Modellfortschritt
+   arbeitet fuer uns. Das Briefing ist der Beweis, den er zeigt.
 2. **Nischen-Informationsvorteil** — echt, kapazitaetsbegrenzt.
 3. **Langfristig systematisch investieren** — Marktrendite, sicheres Fundament.
 4. **Daytrading 24/7** — niedrig. Gegner haben Speed, Gebuehren fressen.
