@@ -41,11 +41,20 @@ Gespraechsverlauf weitermachen koennen. Lies `PLAN.md` fuer die Herleitung.
 - Sprachen der Quellen im Briefing: Deutsch, Englisch, Serbisch/Bosnisch,
   Russisch.
 
+## Leads (Details in `KUNDEN.md`)
+
+- **Gaertner**, allein, viel Admin → erster Kunde, hier entsteht der Kern
+- **Sara Transporte AG**, Doettingen, ~120 LKW → grosser Fisch, Discovery zuerst
+- **Bruder**, Reinigung, 3 Personen, nutzt Claude schon → Referenz/Partner, kein Kunde
+
+Verfuegbare Zeit: ~25 h/Woche (Wochenende + Abende). Stand 2026-09-15.
+
 ## Offen — beim naechsten Mal klaeren, falls noch nicht geschehen
 
 - Was er beruflich tut und welche Faehigkeiten er ausser diesem Setup hat
-- Wie viele Stunden pro Woche neben dem Job realistisch sind
 - Wo die Briefing-Pipeline laeuft (fuer alles, was in die Ausgabe eingreift)
+- Inventar der relevanten Ordner auf seinem Laptop — er fuehrt das lokal
+  mit Claude Code durch und committet das Ergebnis als `INVENTAR.md`
 
 ## Repo-Regeln
 
